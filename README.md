@@ -1,4 +1,5 @@
 # Anodroid
+v1_0_0
 # We do not recommend this project to be used yet. It is only in its beginning stages and does risk failure. 
 
 
