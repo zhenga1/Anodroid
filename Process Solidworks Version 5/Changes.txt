@@ -1,0 +1,13 @@
+Problems:
+After testing of new printed parts, I realised that:
+1) The hole for my axial bearing is slightly small. The sketch was correct but the 3D-printer shrank my designed hole 
+dimension by roughly 0.2-0.3mm
+2) The shin part that I designed causes collisions during servo rotations. I considered the collisions between initial servos but didn't
+consider possible collisions between the thigh and the shin.
+3) The hip part is too big, and when balancing on one foot, can result in a large torque.
+4) The holder part needs to be edited as the two sides that come up and connect to the motor are too brittle and too easily broken. 
+That part needs to be made thicker.
+5) The thigh part is-(possibly too long and needs to be fixed)
+
+Changes:
+1) Expand the diameter by 0.3 to 8.3.
