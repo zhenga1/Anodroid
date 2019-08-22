@@ -16,5 +16,5 @@ Anodroid is a 10-DOF humanoid-robot. It is an integrated machine that can walk a
 
 Ideally, one should also have a recent version of DS Solidworks. 
 
-The files can be found in:
+The design files can be found in the root directory:
 
