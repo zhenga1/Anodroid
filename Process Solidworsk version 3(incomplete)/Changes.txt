@@ -1,0 +1,19 @@
+Date Completed: 8/5
+Main Changes:
+
+Remeasured and changed the width of the motor-assembly, which was causing problems during assembly. The 
+width of the motor-assembly was too short, by 2 millimeters. It was meant to be around 53-53.8mm in length, however
+my initial measurements yielded only 51.5.
+
+Reasons for error:
+Partially due to inaccurate measurement of Motor SR-1501, including the thickness of the rotatory shaft, and the respective
+lengths between the motor holes and each of the ends. This accounted for roughly 0.3-0.4mm of error
+Mostly due to the inconsideration of printing inaccuracies: Many distances printed by the 3D printer were longer than they were
+meant to be. The thickness of the Holder part itself, for instance, at the ends were meant to be 2mm, however it was printed
+2.4mm. The real part's length from the Holder's motor-hole to the ends were also enlarged by roughly a millimetre. Which led to
+the error. 
+
+Components affected:
+- All main parts apart from Pelvis part, including Foot, Thigh and Shin parts.
+
+ 

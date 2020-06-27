@@ -1,0 +1,7 @@
+Newest Changes August 10th:
+- Hip part: The right side with fixed motor is quite difficult to install the nut(ÂÝÄ¸£©
+- Thigh part: The thigh part is unknowingly not centered compared to the Shin part
+- Pelvis part: That part may be slightly too big and slightly too heavy for practical purposes. 
+- Pelvis part: Space is extremely congested and is very difficult to install screws and nuts and bolts. Design needs to take in better 
+consideration of the difficulty of installation. 
+- Hip-Thigh-Holder system: Collisions are possible. See below image with holder:
