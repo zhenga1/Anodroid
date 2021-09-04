@@ -2,7 +2,7 @@
 v1_0_0
 # We do not recommend this project to be used yet. It is only in its beginning stages and does risk failure. 
 
-![GitHub Logo](/2020-03-10_222849.png)
+<img src="https://raw.githubusercontent.com/zhenga1/Anodroid/master/Process%20Solidworks%20Version%206/2020-03-10_222849.png">Robot_picture</img>
 Anodroid is a 10-DOF humanoid-robot. It is an integrated machine that can walk and run, in flat surfaces, in tilted surfaces etcetera. It consists of:
 - 13 single axis model motors. 10 needed, 3 for backup
 - 20 Circular rotating shafts for the motors, 10 needed, 10 for backup 
