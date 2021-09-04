@@ -18,6 +18,6 @@ Ideally, one should also have a recent version of DS Solidworks.
 
 The design files can be found in the root directory:
 
-#EDIT: 
+# EDIT: 
 Anodroid is now a 12-DOF humanoid-robot. Two have been added on between the foot and shin parts to allow the robot to tilt left and right
 
